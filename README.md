@@ -1,0 +1,2 @@
+# Sidur
+Smart Sidur Application
